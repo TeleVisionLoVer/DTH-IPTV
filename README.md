@@ -1,2 +1,2 @@
-# DTH-IPTV
- (1) The channels are from all around the world and including a multilingual world TV.   (2) 5000+ IPTV Channels. ( 3) developer is brand new so the team is working day and night to get things updated all the time.   (4)-Working on most the Android Devices &amp;  Works on all Android Smart Phones. (5)-player required to install before using the streams is =  MX Player ,Wuffy Player ,VLC ,Ludio Player &amp; Any Other External Player
+{ENTERTAINMENT CHANNELS}=*****
+&TV HD (IN):- http://45.120.188.76:8080/0.ts &TV HD (ET):-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8 SONY TV (IN):- http://103.3.226.222:8081/live/SonyTV/playlist.m3u8  
